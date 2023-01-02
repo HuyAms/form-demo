@@ -517,6 +517,14 @@ video {
   display: flex;
 }
 
+.w-\[400px\] {
+  width: 400px;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
 .gap-2 {
   gap: 0.5rem;
 }
