@@ -563,3 +563,8 @@ video {
 .underline {
   text-decoration-line: underline;
 }
+
+.invalid\:border-red-300:invalid {
+  --tw-border-opacity: 1;
+  border-color: rgb(252 165 165 / var(--tw-border-opacity));
+}
